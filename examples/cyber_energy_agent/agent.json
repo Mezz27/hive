@@ -1,0 +1,16 @@
+{
+  "name": "cyber_energy_agent",
+  "description": "Autonomous cyber threat intelligence agent that monitors vulnerabilities, exploited threats, and cybersecurity news relevant to energy infrastructure and generates threat dossiers.",
+  "entry": "cyber_energy_agent.agent",
+  "version": "0.1.0",
+  "category": "security",
+  "tags": [
+    "cybersecurity",
+    "threat-intelligence",
+    "energy",
+    "ics",
+    "critical-infrastructure"
+  ],
+  "author": "Meenu Hani",
+  "license": "Apache-2.0"
+}

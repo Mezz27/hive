@@ -1,0 +1,13 @@
+"""
+Configuration for the Cyber Energy Threat Intelligence Agent.
+"""
+
+DEFAULT_POLL_INTERVAL_SECONDS = 300
+AGENT_NAME = "cyber_energy_agent"
+AGENT_VERSION = "0.1.0"
+OPENROUTER_API_BASE = "https://openrouter.ai/api/v1"
+DOSSIER_TITLE = "CYBER ENERGY THREAT DOSSIER"
+MAX_STORED_EVENTS = 1000
+ENABLE_CAMPAIGN_DETECTION = True
+ENABLE_EXPLOIT_INTEL = True
+ENABLE_ICS_RELEVANCE = True
